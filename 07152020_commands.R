@@ -1,3 +1,10 @@
+#This Rscript was genereated on 07152020 for the microbiome tutorial series by Dr. Michael Jochum at Baylor College of Medicine
+#and was originally designed to be used at the following binder repo:
+#https://mybinder.org/v2/gh/MADscientist314/microbiome_binder_repo/master
+
+
+
+#Import the libraries
 library(phyloseq)
 library(microbiome)
 library(DirichletMultinomial)
