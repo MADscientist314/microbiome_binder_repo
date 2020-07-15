@@ -37,4 +37,4 @@ write_phyloseq(atlas1006, type = "OTU", path = getwd())
 write_phyloseq(atlas1006, type = "TAXONOMY", path = getwd())
 write_phyloseq(atlas1006, type = "METADATA", path = getwd())
 
-
+#test huild_1
